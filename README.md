@@ -3,7 +3,7 @@
 <br>
   <h1> < / Youssef Milad > </h1>
 Hello friend! 👋 Welcome to my page!
-I'm Youssef Milad | يوسف ميلاد , a Frontend Developer specializing in React from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt.
+I'm Youssef Milad , a Frontend Developer specializing in React from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt.
 
 💻 About Me
 
