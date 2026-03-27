@@ -1,5 +1,5 @@
 Hello friend! 👋 Welcome to my page!
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="welcome"/>
 I'm Youssef Milad | يوسف ميلاد , a Frontend Developer specializing in React from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Cairo, Egypt.
 
 💻 About Me
@@ -22,7 +22,7 @@ I care about clean UI, smooth user experience, and writing scalable, maintainabl
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  />
   <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
